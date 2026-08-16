@@ -72,10 +72,7 @@ effective date. Material changes will be highlighted prominently.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-- Email: `[your email address]`
-- Extension homepage / feedback: `[optional — GitHub or store reviews]`
+- Email: youandi199007@gmail.com
 
 ---
 
-> Before publishing, replace the bracketed placeholders such as the contact
-> email with your real details.
